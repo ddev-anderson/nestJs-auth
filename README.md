@@ -24,7 +24,10 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Aplicação NestJs com sistema de autenticação JWT
+
+## Fluxo de autenticação
+![image](https://github.com/deev-anderson/nestJs-auth/assets/160505511/1141afa7-5b34-4e81-8405-ba3b480db0f9)
 
 ## Installation
 
