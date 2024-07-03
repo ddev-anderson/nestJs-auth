@@ -24,9 +24,9 @@
 
 ## Description
 
-Aplicação NestJs com sistema de autenticação JWT
+NestJs application with JWT authentication
 
-## Fluxo de autenticação
+## Authentication Flow
 ![image](https://github.com/deev-anderson/nestJs-auth/assets/160505511/1141afa7-5b34-4e81-8405-ba3b480db0f9)
 
 ## Installation
